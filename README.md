@@ -1,6 +1,6 @@
 # Yo, I'm Lokesh
 
-I'm a software developer who enjoys building things, understanding how they work, and occasionally finding out exactly how they break.
+I like building software, understanding the systems behind it, and figuring out why things work the way they do.
 
 I primarily work with JavaScript and enjoy exploring the engineering behind the software I build.
 
