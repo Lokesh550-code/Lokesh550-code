@@ -1,34 +1,36 @@
-# Yo, I am Lokesh
+# Yo, I'm Lokesh 👋
 
 I'm a software developer who enjoys building things, understanding how they work, and occasionally finding out exactly how they break.
 
-I work primarily with JavaScript and have been exploring the backend side of software engineering.
+I primarily work with JavaScript and enjoy exploring the engineering behind the software I build.
 
 ### What I'm up to
 
 - Building applications and experimenting with ideas.
-- Learning backend engineering with Node.js and Express.
-- Exploring databases, API design, and software architecture.
-- Trying to understand the engineering behind the abstractions I use.
+- Working on backend development with Node.js and Express.
+- Exploring database design, API architecture, and software fundamentals.
 
 ### Things I've built
 
-| Project | What it is |
+| Project | Description |
 |---|---|
-| [Lazy-OS](https://github.com/Lokesh550-code/Lazy-OS) | A browser-based operating system emulator with a virtual filesystem and window management. |
+| [Lazy-OS](https://github.com/Lokesh550-code/Lazy-OS) | A browser-based OS emulator featuring a virtual filesystem and window management. |
 | [Kshan](https://github.com/Lokesh550-code/kshan) | A movie discovery application powered by the TMDB API. |
 | [LazyNotes](https://www.npmjs.com/package/lazynotes) | A command-line note-taking tool published on npm. |
-| [Portfolio](https://portfolio-lfhc.vercel.app/) | My personal portfolio and collection of work. |
 
-### Tech I work with
+### Technologies
 
-**Languages:** JavaScript, C, Python
+- **Languages:** JavaScript, C, Python
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB
 
-**Frontend:** React, Vite, Tailwind CSS
+### Currently exploring
 
-**Backend:** Node.js, Express.js
-
-**Databases:** Mongodb
+- Backend engineering and API design.
+- Database fundamentals and data modelling.
+- Data structures and algorithms.
+- Operating systems and computer science fundamentals.
 
 ### Beyond the code
 
