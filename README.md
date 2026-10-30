@@ -1,4 +1,4 @@
-# Yo, I'm Lokesh 👋
+# Yo, I'm Lokesh
 
 I'm a software developer who enjoys building things, understanding how they work, and occasionally finding out exactly how they break.
 
